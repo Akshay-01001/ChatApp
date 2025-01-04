@@ -1,5 +1,10 @@
 # ChatApp
 
-A Basic Chatting Application Using Socket.io. 
-Frontend : React + Tailwindcss.
-Backend : express.
+A basic chatting application using **Socket.io**.
+
+## Frontend
+- **React**
+- **TailwindCSS**
+
+## Backend
+- **Express.js**
